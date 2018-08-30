@@ -46,3 +46,9 @@
 	height: 40px; 
 	width: 40px;
 }
+
+.fundo
+{
+	background-color: rgba(0,0,0,.5);
+	padding: 0px 4px 0px 4px;
+}
